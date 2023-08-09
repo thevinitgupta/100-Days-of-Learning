@@ -6,3 +6,5 @@ Learning never stops - and this is my attempt to do so. I will be going through 
 
 ## The Learnings 📖
 [Day 1 : RESTful APIs](https://thevinitgupta.netlify.app/100DaysofLearning/Day1)
+[Day 2 : Key Data Structures we use](https://thevinitgupta.netlify.app/100DaysofLearning/Day2)
+
