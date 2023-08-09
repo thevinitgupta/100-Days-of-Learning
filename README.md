@@ -5,6 +5,7 @@
 Learning never stops - and this is my attempt to do so. I will be going through 100 days trying to learning something everyday and sharing here. You can also join me using the tag `#100daysoflearning` on LinkedIn.
 
 ## The Learnings 📖
-[Day 1 : RESTful APIs](https://thevinitgupta.netlify.app/100DaysofLearning/Day1)
+[Day 1 : RESTful APIs](https://thevinitgupta.netlify.app/100DaysofLearning/Day1) 
+
 [Day 2 : Key Data Structures we use](https://thevinitgupta.netlify.app/100DaysofLearning/Day2)
 
