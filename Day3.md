@@ -1,5 +1,4 @@
-# GraphQL <img height=30px src="https://github.com/thevinitgupta/100-Days-of-Learning/assets/65801700/58d3b8bd-4308-4f07-a63e-26b4a256d1a9"/> - The API child of Facebook
-
+# GraphQL - The API child of Facebook
 
 GraphQL has been around since 2012(inside of Facebook😅). 
 
@@ -15,6 +14,8 @@ Well in simple terms, `it is used to define how requests are made to an API and 
 
 But, how is it related to and even _BETTER_ than REST?
 There are few things to consider to make this comparison.
+
+![GraphQL Sample](https://www.apollographql.com/blog/static/graphql-query-79196ebc9ef66116c562969e686a6cf5.png)
 
 ## Single Point Of Origin
 If you have ever developed a REST API, you know the work it takes to build an endpoint for the user details, another for the blog posts list, another for the followers list, the following list, and it goes on. 
