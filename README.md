@@ -10,3 +10,5 @@ Learning never stops - and this is my attempt to do so. I will be going through 
 [Day 2 : Key Data Structures we use](https://thevinitgupta.netlify.app/100DaysofLearning/Day2)
 
 [Day 3 : GraphQL : The API child of Facebook](https://thevinitgupta.netlify.app/100DaysofLearning/Day3)
+
+[Day 4 : API Gateways - The Gatekeepers of the Internet](https://thevinitgupta.netlify.app/100DaysofLearning/Day4)
