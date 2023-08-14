@@ -12,3 +12,9 @@ Learning never stops - and this is my attempt to do so. I will be going through 
 [Day 3 : GraphQL : The API child of Facebook](https://thevinitgupta.netlify.app/100DaysofLearning/Day3)
 
 [Day 4 : API Gateways - The Gatekeepers of the Internet](https://thevinitgupta.netlify.app/100DaysofLearning/Day4)
+
+[Day 5 : The Comprehensive guide to GitHub REST API](https://thevinitgupta.netlify.app/100DaysofLearning/Day5)
+
+[Day 6 : Encryption from the Greeks to today](https://thevinitgupta.netlify.app/100DaysofLearning/Day6)
+
+[Day 7 : Proxies - From Clients to Servers](https://thevinitgupta.netlify.app/100DaysofLearning/Day7)
