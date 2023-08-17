@@ -1,4 +1,4 @@
-# Caching explained in <5 minutes
+# Caching explained in less than 5 minutes
 Caching is a data storage technique that plays an essential role in the world for designing fast and scalable systems. 
 
 > A cache stores and retrieves data quickly for future use.
