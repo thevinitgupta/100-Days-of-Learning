@@ -28,7 +28,7 @@ But, the downside is that `each server must maintain it's own copy of the cache`
 ### 2. Distributed In-Memory Cache
 We can also use a distributed cache system like `Redis or Memcached` so that all servers can make use of the same cache.
 
-<img height=200 src="https://kinsta.com/wp-content/uploads/2023/06/memcached-vs-redis-illustration.png"/>
+<img height="200" src="https://kinsta.com/wp-content/uploads/2023/06/memcached-vs-redis-illustration.png"/>
 
 ### 3. File System Cache
 This type of caches store commonly accessed files. A `CDN` is an example of a file system cache that takes advantage of locality.
