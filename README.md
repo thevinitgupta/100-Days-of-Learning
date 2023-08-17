@@ -18,3 +18,10 @@ Learning never stops - and this is my attempt to do so. I will be going through 
 [Day 6 : Encryption from the Greeks to today](https://thevinitgupta.netlify.app/100DaysofLearning/Day6)
 
 [Day 7 : Proxies - From Clients to Servers](https://thevinitgupta.netlify.app/100DaysofLearning/Day7)
+ 
+[Day 8 : Microservices for everyone](https://thevinitgupta.netlify.app/100DaysofLearning/Day8)
+ 
+[Day 9 : Understanding Content Delivery Networks (CDNs) for Beginners](https://thevinitgupta.netlify.app/100DaysofLearning/Day9)
+ 
+[Day 10 : Caching explained in less than 5 minutes](https://thevinitgupta.netlify.app/100DaysofLearning/Day10)
+ 
