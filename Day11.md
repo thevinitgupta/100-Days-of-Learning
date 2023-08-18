@@ -29,6 +29,7 @@ Once a message is processed, the `data is sent to the producer` so that they can
 
 ## Ordering a Domino's Pizza
 Who doesn't love ordering Pizzas from Domino's right?
+
 <img src="https://media.giphy.com/media/jn2iXu2HRpMuovBrrV/giphy.gif"/>
 
 Well without a message queue like system, no one would. Let's understand how.
