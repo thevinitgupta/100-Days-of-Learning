@@ -25,3 +25,13 @@ Learning never stops - and this is my attempt to do so. I will be going through 
  
 [Day 10 : Caching explained in less than 5 minutes](https://thevinitgupta.netlify.app/100DaysofLearning/Day10)
  
+[Day 11 : Message Queues for Beginners](https://thevinitgupta.netlify.app/100DaysofLearning/Day11)
+ 
+[Day 12 : Caching explained in less than 5 minutes](https://thevinitgupta.netlify.app/100DaysofLearning/Day12)
+ 
+[Day 13 : Learning TypeScript: Day 1 - Understanding Basics and Setup for Development](https://thevinitgupta.netlify.app/100DaysofLearning/Day13)
+ 
+[Day 14 : Typescript Day 2 : Diving more into Types ad Setup with Express](https://thevinitgupta.netlify.app/100DaysofLearning/Day14)
+ 
+[Day 15 : Typescript Day 3 : Horros of any and working with ESLint](https://thevinitgupta.netlify.app/100DaysofLearning/Day15)
+ 
