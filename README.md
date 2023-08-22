@@ -27,7 +27,7 @@ Learning never stops - and this is my attempt to do so. I will be going through 
  
 [Day 11 : Message Queues for Beginners](https://thevinitgupta.netlify.app/100DaysofLearning/Day11)
  
-[Day 12 : Caching explained in less than 5 minutes](https://thevinitgupta.netlify.app/100DaysofLearning/Day12)
+[Day 12 : Connecting to Github with SSH (Windows)](https://thevinitgupta.netlify.app/100DaysofLearning/Day12)
  
 [Day 13 : Learning TypeScript: Day 1 - Understanding Basics and Setup for Development](https://thevinitgupta.netlify.app/100DaysofLearning/Day13)
  
