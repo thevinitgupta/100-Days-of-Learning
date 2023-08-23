@@ -12,23 +12,34 @@ This initialized an npm respository with default options.
 
  - Next, step is to install the necessary dependencies to run Typescript.
 > 📌 The dependencies needed for running Typescript will only be needed during development, so we will install them as `DevDependencies` using the following command :
-> ```js
-> npm install -D typescript nodemon ts-node
-> ```
+```js
+npm install -D typescript nodemon ts-node
+```
 
 When these are installed, we need to configure the environment.
 
 - Next, we need to configure typescript, so create a new file : `tsconfig.json` in the root directory and add the following :
-  ```js
+  ```json
   {
     "compilerOptions" : {
-        "module": "Node16",
-        "moduleResolution": "node",
-        "baseUrl": "src",
-        "outDir": "dist",
-        "sourceMap": true,
-        "noImplicitAny": true
+        "module": "Node16", //Specifies the target module system - ensures generated code is compatible with Node.js
+        "moduleResolution": "node", // Determines how compiler resolves module imports - uses Node.js resolution strategy
+        "baseUrl": "src", // sets the base directory for module resolution
+        "outDir": "dist", // generated JavaScript files will be placed in the dist directory
+        "sourceMap": true, // Source maps enable browser debugging of transpiled TypeScript
+        "noImplicitAny": true // throws an error if TypeScript cannot determine the type of a variable
     },
-    "include": ["src/**/*"]
+    "include": ["src/**/*"] // specifies which files to include in the compilation process, set to include all TypeScript files under the src directory and its subdirectories
   }
 ```
+```
+ - Now we need to configure `nodemon` to run with typescript. Create a `nodemon.json` file and add the following code :
+```json
+{
+    "watch" : ["src"], // which folder to watch for changes
+    "ext" : ".ts,.js", // which extensions to watch for changes to restart the server
+    "exec" : "ts-node ./src/index.ts" // the script nodemon execute
+}
+```
+
+And there you have it, you are ready to develop your express server in typescript.
