@@ -35,3 +35,7 @@ Learning never stops - and this is my attempt to do so. I will be going through 
  
 [Day 15 : Typescript Day 3 : Horros of any and working with ESLint](https://thevinitgupta.netlify.app/100DaysofLearning/Day15)
  
+[Day 16 : Javscript vs Typescript](https://thevinitgupta.netlify.app/100DaysofLearning/Day16)
+ 
+[Day 17 : Building Lynkit - Day 1 : Setup Express+Typescript server](https://thevinitgupta.netlify.app/100DaysofLearning/Day17)
+ 
