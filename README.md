@@ -39,3 +39,5 @@ Learning never stops - and this is my attempt to do so. I will be going through 
  
 [Day 17 : Building Lynkit - Day 1 : Setup Express+Typescript server](https://thevinitgupta.netlify.app/100DaysofLearning/Day17)
  
+[Day 18 : Building Lynkit - Day 2 : Setup MongoDB and Express and Handle the first request](https://thevinitgupta.netlify.app/100DaysofLearning/Day18)
+ 
