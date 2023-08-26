@@ -3,6 +3,9 @@ When building a complex Application, we need to follow one or the other design p
 
 This architecture separates the `data model in the model section`, the `Frontend application` in the `View section(here the ReactJS Application)` and the `Business logic or request handling` into the `Controller` section. 
 
+![MVC Architecture in NodeJS](https://github.com/thevinitgupta/100-Days-of-Learning/assets/65801700/3ab7d139-37d8-4ea7-957a-961626d1c6d8)
+
+
 ## User Model 
 The most important part of Lynkit is the user that will store the various links. 
 Each user needs to have a unique EmailID, a name and some authentication built in. 
