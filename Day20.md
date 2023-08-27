@@ -132,4 +132,8 @@ signup : async (req : Request, res : Response) => {
     }
 ```
 
+## Registration Workflow Diagram
+
+![Registraction Workflow](https://github.com/thevinitgupta/100-Days-of-Learning/assets/65801700/3e5a612e-ca4c-459c-b731-d96adb790271)
+
 Do follow ✅✅ for upcoming posts on `User Authorization using JWT` and more.
