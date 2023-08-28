@@ -41,3 +41,9 @@ Learning never stops - and this is my attempt to do so. I will be going through 
  
 [Day 18 : Building Lynkit - Day 2 : Setup MongoDB and Express and Handle the first request](https://thevinitgupta.netlify.app/100DaysofLearning/Day18)
  
+[Day 19 : Building Lynkit - Day 3 Building the MVC Based Architecture](https://thevinitgupta.netlify.app/100DaysofLearning/Day19)
+ 
+[Day 20 : Building Lynkit - Day 4 User Authentication and Securing Storage](https://thevinitgupta.netlify.app/100DaysofLearning/Day20)
+ 
+[Day 21 : Building Lynkit - Logging in a user and generating a session token using JsonWebTokens](https://thevinitgupta.netlify.app/100DaysofLearning/Day21)
+ 
