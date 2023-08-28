@@ -3,6 +3,9 @@ Now that the user is registered and user data is stored in the database securely
 
 For authentication a user everytime they login, a `sessionToken` is generated and stored in the user's `cookies`, which will be passed from the front end everytime a request is made.
 
+
+![Login Workflow](https://github.com/thevinitgupta/100-Days-of-Learning/assets/65801700/48e07ac1-a9d5-4f29-a177-b36e06380a3d)
+
 ## Tokens using Json Web Tokens
 Json Web Tokens or JWTs are a standard way of authenticating a user by signing their details using a secret key and then hashing it.
 
@@ -114,4 +117,3 @@ The user is Redirected to the `/user` route to indicate a successful ✅ login.
     }
 ```
 
-![Login Workflow](https://github.com/thevinitgupta/100-Days-of-Learning/assets/65801700/48e07ac1-a9d5-4f29-a177-b36e06380a3d)
