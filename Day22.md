@@ -108,7 +108,7 @@ Start your Next.js development server using the following command:
 Open your web browser and visit `http://localhost:3000`. 
 ### You should see your Next.js application with the animated blob that follows your mouse cursor and has a blur effect something like this : 👇
 
-
+https://github.com/thevinitgupta/100-Days-of-Learning/assets/65801700/24377ae8-c9e4-4640-967f-8e05d41eca31
 
 Congratulations 🎉🥳! You've successfully added an animated blob with a blur effect that follows the mouse cursor to your Next.js application. 
 
