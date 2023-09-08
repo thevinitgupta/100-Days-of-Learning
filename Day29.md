@@ -92,10 +92,7 @@ We've spiced things up with a navigation menu, and notice we use the `to` prop i
     
 ## And the cool 404 page : 
 
-
-https://github.com/thevinitgupta/100-Days-of-Learning/assets/65801700/aa7b2dba-efe8-4e5e-8997-ed1b7ccd617e
-
-
+<video src="https://github.com/thevinitgupta/100-Days-of-Learning/assets/65801700/aa7b2dba-efe8-4e5e-8997-ed1b7ccd617e" autoplay controls="false"/>
 
 
 And voila! You're now ready to explore the wonderful world of routing in your React app. Go ahead, have fun navigating different pages while your app stays snappy and responsive. Happy coding! 🚀
