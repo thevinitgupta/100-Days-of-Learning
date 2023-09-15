@@ -1,6 +1,6 @@
-#Discover Bun - A Faster, Modern JavaScript Runtime
+# Discover Bun - A Faster, Modern JavaScript Runtime
 
-<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yjrhlmtofass38oajbqf.png"/>
+<img src="https://github.com/thevinitgupta/100-Days-of-Learning/assets/65801700/16e0a1d0-4e5e-46a2-9f6d-6be7e2b22b1b"/>
 
 ## Bun is the new Javascript Runtime built from scratch to serve the modern Javascript ecosystem.
 
