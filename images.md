@@ -5,4 +5,5 @@
 ![lynkit](https://github.com/thevinitgupta/100-Days-of-Learning/assets/65801700/f1936506-6831-4156-86a2-a2b23cf1033e)
 <img width="553" alt="featured" src="https://github.com/thevinitgupta/100-Days-of-Learning/assets/65801700/440abfe7-9657-4b44-bed8-0cd4d1449dff">
 
-![Resume](https://github.com/thevinitgupta/100-Days-of-Learning/assets/65801700/df525f6a-a745-46e6-a6db-b24de22846f7)
+
+![Resume(1)](https://github.com/thevinitgupta/100-Days-of-Learning/assets/65801700/ff0836dd-4605-4dd0-89b1-3d101ba70a37)
