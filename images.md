@@ -6,4 +6,4 @@
 <img width="553" alt="featured" src="https://github.com/thevinitgupta/100-Days-of-Learning/assets/65801700/440abfe7-9657-4b44-bed8-0cd4d1449dff">
 
 
-![Resume(1)](https://github.com/thevinitgupta/100-Days-of-Learning/assets/65801700/ff0836dd-4605-4dd0-89b1-3d101ba70a37)
+![Resume(1)(2)](https://github.com/thevinitgupta/100-Days-of-Learning/assets/65801700/b8c895ff-94d4-4dea-91ba-53ceb6cf1075)
